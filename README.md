@@ -17,10 +17,10 @@ For creating React app we have used [crate-react-app](https://github.com/faceboo
 # How To Start Application?
 
 * Start MongoDB - our application expects that there is `twitter-demo` database in MongoDB
-* Go to [frontend]() folder
+* Go to [frontend](https://github.com/GenFirst/react-node-twitter-login/tree/master/frontend) folder
     * `npm install`
     * `ng serve`
-* Go to [backend]() folder
+* Go to [backend](https://github.com/GenFirst/react-node-twitter-login/tree/master/backend) folder
     * `npm install`
     * `gulp develop`
     
