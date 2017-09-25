@@ -4,7 +4,7 @@ Demo application that shows how implement Twitter login with React on frontend a
 
 # About
 
-This application was created as material that is described in the blog post.
+This application was created as material that is described in the [blog post](https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb).
 For creating React app we have used [crate-react-app](https://github.com/facebookincubator/create-react-app).
 
 # What you need to install
