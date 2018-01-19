@@ -5,19 +5,19 @@ Demo application that shows how implement Twitter login with React on frontend a
 # About
 
 This application was created as material that is described in the [blog post](https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb).
-For creating React app we have used [crate-react-app](https://github.com/facebookincubator/create-react-app).
+For creating React app we have used [create-react-app](https://github.com/facebookincubator/create-react-app).
 
 # What you need to install
 
 * [Node.js](https://nodejs.org/en/)
-* [crate-react-app](https://github.com/facebookincubator/create-react-app)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [Gulp](http://gulpjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
 # How To Start Application?
 
 * Start MongoDB - our application expects that there is `twitter-demo` database in MongoDB
-* Put Twitter secret and key in [passport.js](https://github.com/GenFirst/react-node-twitter-login/blob/master/backend/passport.js) and [server.js](https://github.com/GenFirst/react-node-twitter-login/blob/master/backend/server.js) files
+* Put Twitter secret and key in [twitter.config.js](https://github.com/GenFirst/react-node-twitter-login/blob/master/backend/twitter.config.js) and 
 * Go to [frontend](https://github.com/GenFirst/react-node-twitter-login/tree/master/frontend) folder
     * `npm install`
     * `npm start`
